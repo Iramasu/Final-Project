@@ -19,11 +19,13 @@ The dataset includes 11 categories each with 3,755 entries collected within a 4-
 # Library
 For this project i use Libraries Python Pandas, Numpy, Matplotlib dan Seaborn. 
 
-  import csv
-  import numpy as np
-  import pandas as pd
-  import matplotlib.pyplot as plt
-  import plotly.express as px
-  import seaborn as sns
 
-  %matplotlib inline
+    - import csv
+    - import numpy as np
+    - import pandas as pd
+    - import matplotlib.pyplot as plt
+    - import plotly.express as px
+    - import seaborn as sns
+    - %matplotlib inline
+
+ 
